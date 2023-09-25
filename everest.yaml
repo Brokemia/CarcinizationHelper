@@ -1,0 +1,8 @@
+- Name: CarcinizationHelper
+  Version: 1.0.0
+  DLL: bin/CarcinizationHelper.dll
+  Dependencies:
+    - Name: BrokemiaHelper
+      Version: 1.6.9
+    - Name: Everest
+      Version: 1.2781.0
